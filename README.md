@@ -7,5 +7,7 @@ Nesse repositório serão encontrados conteúdos que julguei relevantes durante 
 
 ## Principais Linhas de Comando
 <ul>
+<li>ng</li>
+<li>ng [command name] --help</li>
 <li>ng new 'nome do projeto'</li>
 </ul>
