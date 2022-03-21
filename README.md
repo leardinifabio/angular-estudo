@@ -21,6 +21,12 @@ Nesse repositório serão encontrados conteúdos que julguei relevantes durante 
 - Contem a página de estilo
 - Contem a página ts
 
-## Formulários com <NgModules>
+##
 
--
+## Formulários com NgModules
+
+### Importados
+
+#### FormsModule
+
+- (atualizar)
