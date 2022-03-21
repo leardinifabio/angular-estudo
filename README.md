@@ -17,7 +17,10 @@ Nesse repositório serão encontrados conteúdos que julguei relevantes durante 
 
 ## Caracteristicas de um Componente
 
-<ul>
-<li>Contem a página .html</li>
-<li>Contem a página de estilo</li>
-<li>Contem a página ts</li>
+- Contem a página .html
+- Contem a página de estilo
+- Contem a página ts
+
+## Formulários com <NgModules>
+
+-
