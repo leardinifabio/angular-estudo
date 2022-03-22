@@ -7,10 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'bytebank';
+  /* Necessario inicializar o array.. Se tentar add algo a um array não inicializado, terá um problema. */
   transferencias: any[] = [];
 
   transferir($event) {
     console.log($event);
-    this.transferencias.push($event);
+    const transferencia = { ...$event, data: new Date() };
+    this.transferencias.push(transferencia);
   }
 }
