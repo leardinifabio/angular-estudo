@@ -7,13 +7,18 @@ Nesse repositório serão encontrados conteúdos que julguei relevantes durante 
 1. https://cursos.alura.com.br/formacao-angular
 2. https://www.udemy.com/course/curso-de-angular/
 
-## Principais Linhas de Comando
+## Comandos Úteis
 
-<ul>
-<li>ng</li>
-<li>ng [command name] --help</li>
-<li>ng new 'nome do projeto'</li>
-</ul>
+Diretivas AngularJs
+
+- ng
+- ng [command name] --help
+- ng new 'nome do projeto'
+- ng s --open
+
+API Json Server
+
+- json-server --watch db.json
 
 ## Caracteristicas de um Componente
 
