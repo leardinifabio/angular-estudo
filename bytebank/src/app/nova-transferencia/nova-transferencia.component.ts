@@ -13,8 +13,8 @@ export class NovaTranferenciaComponent {
   /* Evento dentro do componente. Responsável por propagar uma informação para quem chamou.
   classe 'EventEmitter' que é responsável por propagar os dados*/
 
-  valor: any;
-  destino: any;
+  valor: number;
+  destino: number;
 
   constructor(private service: TransferenciaService) {}
 
@@ -35,7 +35,7 @@ export class NovaTranferenciaComponent {
   }
 
   limparCampos() {
-    this.valor = '';
-    this.destino = '';
+    this.valor = 0;
+    this.destino = 0;
   }
 }
